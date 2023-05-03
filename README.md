@@ -1,3 +1,5 @@
+[[README-ru]]
+
 # AI-Generated-Adventure
 SMBX episode generated with the help of artificial intelligence, generators and other goodies, and also polished by me.
 
