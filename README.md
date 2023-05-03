@@ -1,6 +1,10 @@
 # AI-Generated-Adventure
 SMBX episode generated with the help of artificial intelligence, generators and other goodies, and also polished by me.
 
+# Story
+
+...In the center of the world is an island inhabited by the most powerful beings. Man has never tried to conquer this territory. However, the **4** ancient gods that protected this island have disappeared. Some people have suggested that these gods became possessed by evil, others believed that they left their citadel to continue their travels. Some also said that one person has the ability to bring the gods back into place using four special stones (crystals). If he finds all the stones and returns the gods, he will become the new hero of the world...
+
 # Resources
 ## Level/relief Generator
 * [2D House Generator by llesha](https://llesha.itch.io/2d-house-generator)
