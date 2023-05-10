@@ -16,6 +16,6 @@
 * [Level Generator Toolkit by chilly_durango](https://chilly-durango.itch.io/level-generator-toolkit)
 * [Pixel Character Creator by ShatteredReality](https://shatteredreality.itch.io/pcc)
 * [Pixel Sprite Generator by Deep-Fold](https://deep-fold.itch.io/pixel-sprite-generator)
-# Прочие ресурсы
+## Прочие ресурсы
 * [[SMBX] FutureNyanCat's GFX Pack](https://www.smbxgame.com/forums/viewtopic.php?f=31&t=7760)
 * [[SMBX] SMW Expanded 1.0 By Sednaiur ](https://www.smbxgame.com/forums/viewtopic.php?t=12834)
